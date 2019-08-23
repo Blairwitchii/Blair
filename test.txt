@@ -1,1 +1,2 @@
 I am the best hacka in the world. This is our first commit.
+This are the added text. 
